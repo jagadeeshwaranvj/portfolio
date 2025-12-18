@@ -243,6 +243,10 @@ box-shadow: 0 0  20px rgb(179, 160, 75);
     color: #555;
 }
 
+.tit{
+    padding-left: 100px;
+}
+
 .footer {
     background-color: #0d1b2a;
     color: #ffffff;
