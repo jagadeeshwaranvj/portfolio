@@ -285,5 +285,15 @@ box-shadow: 0 0  20px rgb(179, 160, 75);
     font-size: 13px;
     color: #cccccc;
 }
+.footer-left a {
+    color: #ffffff;       
+    text-decoration: none;
+}
+
+
+.footer-left a:hover {
+    color: #dddddd;       
+}
+
 
 
